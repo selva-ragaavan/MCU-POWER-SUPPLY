@@ -1,9 +1,4 @@
 # MCU-POWER-SUPPLY
-This project involves creating an 5V regulated supply for mcu from 12V Supply.
 
-# requirements 
-- Input voltage : 12v
-- Output voltage : 5v
-- Output current : 1A
+This project implements a compact and reliable 5V regulated power supply designed to power microcontrollers and other 5V logic devices from a 12V DC source. Utilizing the LM2596 buck converter, it provides efficient voltage regulation, reverse polarity protection, and a USB Micro-B interface for seamless power delivery.
 
-- [ ] need to add footprint for usb and output resistor
